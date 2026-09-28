@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, one single glossy 3D neon blue orbit ring with one glowing white sphere on it, centered, dark navy radial gradient background, crisp, no text, no other objects"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile game loader background, very dark deep space navy gradient with faint distant stars and a soft blue nebula haze, cinematic, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile arcade game menu background, glowing violet and blue planet with bright neon orbit rings in starry space, vibrant 3D render, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile game background, soft blurred blue and violet nebula, low contrast for UI overlay, no text, no UI elements"},
+    {"name":"sprite_marker","type":"sprite","prompt":"One single glowing neon blue energy sphere, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_planet","type":"sprite","prompt":"One single glossy violet and blue planet, centered icon, 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_ring","type":"sprite","prompt":"One single thin glowing neon blue circular ring, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_spark","type":"sprite","prompt":"One single bright pink four point star spark, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"button_cta","type":"button","prompt":"Horizontal game CTA button background, blue to violet neon gradient, glossy, rounded, no text"}
+  ]
+}
