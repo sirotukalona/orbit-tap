@@ -1,0 +1,5 @@
+<resources>
+    <!-- Splash background. Kept close to the in-app loader gradient so the
+         pre-RN window and the first painted frame read as one screen. -->
+    <color name="splashBackground">#080C1C</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <!-- Branded window background eliminates the white flash before the RN
+             bridge boots, and keeps the pre-paint frame non-blank. -->
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+        <item name="android:statusBarColor">@color/splashBackground</item>
+        <item name="android:navigationBarColor">@color/splashBackground</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- API 31+ draws the platform splash instead of windowBackground.
+             These attributes compile against compileSdk and are ignored below. -->
+        <item name="android:windowSplashScreenBackground">@color/splashBackground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/splashBackground</item>
+    </style>
+
+</resources>
